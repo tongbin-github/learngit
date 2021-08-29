@@ -4,4 +4,4 @@ SVN is not stupid
 dev branch Add branch is easy and effectivefor ff merge
 for no-ff merge
 for stash
-waiting for new developer
+i am a new developer
